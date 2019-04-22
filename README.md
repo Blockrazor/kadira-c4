@@ -4,6 +4,9 @@
 
 [![Kadira - Performance Monitoring for Meteor](https://i.cloudup.com/LwrCCa_RRE.png)](https://kadira.io)
 
+### Contributing
+Any pull requests complying with the [Collective Code Construction Contract (C4/SAIP1)](https://github.com/socialarchitecture/protocols/blob/master/SAIP1.MD) will be merged.
+
 ### Getting started
 
 1. Create an account at <https://kadira.io>
